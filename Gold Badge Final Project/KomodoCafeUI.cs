@@ -27,8 +27,8 @@ namespace Gold_Badge_Final_Project
                 Console.WriteLine("Select A Menu Option:\n" +
                     "1. Create New Menu Item\n" +
                     "2. View All Items on the Cafe's Menu\n" +
-                    "3. View All Items by Meal Name\n" +
-                    "4. Delete Existing Content\n" +
+                    "3. View the Description of Each Menu Item By Meal Name\n" +
+                    "4. Delete an Existing Meal\n" +
                     "5. Exit");
 
                 string input = Console.ReadLine();

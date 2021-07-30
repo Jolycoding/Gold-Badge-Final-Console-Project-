@@ -4,6 +4,7 @@ using System;
 
 namespace Menu_Test
 {
+    //Not needed for this assignment; practice 
     [TestClass]
     public class MenuItemsTest
     {
