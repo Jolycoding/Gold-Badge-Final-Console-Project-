@@ -1,0 +1,10 @@
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\bin\Debug\Gold Badge Final Project.exe.config
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\bin\Debug\Gold Badge Final Project.exe
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\bin\Debug\Gold Badge Final Project.pdb
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\obj\Debug\Komodo Cafe.csproj.AssemblyReference.cache
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\obj\Debug\Komodo Cafe.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\obj\Debug\Gold Badge Final Project.exe
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\obj\Debug\Gold Badge Final Project.pdb
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\bin\Debug\Menu Library.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\bin\Debug\Menu Library.pdb
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Gold Badge Final Project\obj\Debug\Komodo Cafe.csproj.CopyComplete

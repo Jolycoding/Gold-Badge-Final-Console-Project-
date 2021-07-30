@@ -10,6 +10,8 @@ namespace Gold_Badge_Final_Project
     {
         static void Main(string[] args)
         {
+            KomodoCafeUI program = new KomodoCafeUI();
+            program.Run();
         }
     }
 }

@@ -8,7 +8,7 @@ namespace Menu_Library
 {
     public class MenuRepository
     {
-        public List<MenuItems> _listofItems = new List<MenuItems>();
+        private List<MenuItems> _listofItems = new List<MenuItems>();
 
         //Create and add new menu items
         public void AddItemsToList(MenuItems items)
@@ -52,7 +52,7 @@ namespace Menu_Library
         {
             foreach (MenuItems content in _listofItems)
             {
-                if (content.MealName == mealName)
+                if (content.MealName.ToLower() == mealName.ToLower())
                 {
                     return content;
                 }

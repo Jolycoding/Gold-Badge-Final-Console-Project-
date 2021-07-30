@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Menu Library\Menu Library.csproj">
-      <Project>{D9387958-2828-4A10-8FC5-0D497894DEC2}</Project>
+      <Project>{d9387958-2828-4a10-8fc5-0d497894dec2}</Project>
       <Name>Menu Library</Name>
     </ProjectReference>
   </ItemGroup>

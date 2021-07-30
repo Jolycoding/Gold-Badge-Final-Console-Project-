@@ -8,6 +8,8 @@ namespace Menu_Test
     public class MenuItemsTest
     {
         [TestMethod]
+        
+        
         public void SetMealName_ShouldSetCorrectString()
         {
             MenuItems content = new MenuItems();

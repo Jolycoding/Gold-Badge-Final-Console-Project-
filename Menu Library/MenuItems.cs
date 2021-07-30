@@ -18,7 +18,7 @@ namespace Menu_Library
 
         public MenuItems() { }
 
-        public MenuItems(string mealNumber, string mealName, string description, string ingridients, double price)
+        public MenuItems(string mealName, string mealNumber, string description, string ingridients, double price)
         {
             MealNumber = mealNumber;
             MealName = mealName;
