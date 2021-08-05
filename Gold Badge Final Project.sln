@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo Cafe", "Gold Badge Final Project\Komodo Cafe.csproj", "{B7BFEDD2-9029-46A3-83A5-DBEDD8D04327}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeConsole", "Gold Badge Final Project\KomodoCafeConsole.csproj", "{B7BFEDD2-9029-46A3-83A5-DBEDD8D04327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu Test", "Menu Test\Menu Test.csproj", "{67C63095-8B9B-4848-85A6-B4947884301B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeTests", "Menu Test\KomodoCafeTests.csproj", "{67C63095-8B9B-4848-85A6-B4947884301B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu Library", "Menu Library\Menu Library.csproj", "{D9387958-2828-4A10-8FC5-0D497894DEC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeLibrary", "Menu Library\KomodoCafeLibrary.csproj", "{D9387958-2828-4A10-8FC5-0D497894DEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomdoClaimsDepartmentProgram", "KomdoClaimsDepartmentProgram\KomdoClaimsDepartmentProgram.csproj", "{AD70B350-8510-4300-AC05-CE4D030AFA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaimsDepartmentLibrary", "KomodoClaimsDepartmentUI\KomodoClaimsDepartmentLibrary.csproj", "{7BC7A6AA-5518-4502-BE77-B6BA2A46E49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaimsDepartmentTests", "KomodoClaimsDepartmentTests\KomodoClaimsDepartmentTests.csproj", "{C18AA206-F11A-4A85-B257-DACE48916A17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{D9387958-2828-4A10-8FC5-0D497894DEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9387958-2828-4A10-8FC5-0D497894DEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9387958-2828-4A10-8FC5-0D497894DEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD70B350-8510-4300-AC05-CE4D030AFA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70B350-8510-4300-AC05-CE4D030AFA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70B350-8510-4300-AC05-CE4D030AFA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70B350-8510-4300-AC05-CE4D030AFA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC7A6AA-5518-4502-BE77-B6BA2A46E49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC7A6AA-5518-4502-BE77-B6BA2A46E49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC7A6AA-5518-4502-BE77-B6BA2A46E49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC7A6AA-5518-4502-BE77-B6BA2A46E49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18AA206-F11A-4A85-B257-DACE48916A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18AA206-F11A-4A85-B257-DACE48916A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18AA206-F11A-4A85-B257-DACE48916A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18AA206-F11A-4A85-B257-DACE48916A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

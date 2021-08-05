@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Menu Library\Menu Library.csproj">
+    <ProjectReference Include="..\Menu Library\KomodoCafeLibrary.csproj">
       <Project>{d9387958-2828-4a10-8fc5-0d497894dec2}</Project>
-      <Name>Menu Library</Name>
+      <Name>KomodoCafeLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

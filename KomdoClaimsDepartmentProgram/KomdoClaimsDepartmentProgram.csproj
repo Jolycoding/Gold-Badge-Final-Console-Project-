@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KomodoClaimsDepartmentRepository.cs" />
+    <Compile Include="KomodoIClaimsDepartmentUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KomodoClaimsDepartmentUI\KomodoClaimsDepartmentLibrary.csproj">
+      <Project>{7bc7a6aa-5518-4502-be77-b6ba2a46e49b}</Project>
+      <Name>KomodoClaimsDepartmentLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
