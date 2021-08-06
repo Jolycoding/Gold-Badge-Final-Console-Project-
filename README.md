@@ -1,6 +1,6 @@
 # Gold-Badge-Final-Console-Project-
 
-This project has been broke down into 3 separate projects all within the same solution:
+This project has been broken down into 3 separate projects all within the same solution:
 CHALLENGE 1: CAFE
 CHALLENGE 2: CLAIMS
 CHALLENGE 3: BADGES
