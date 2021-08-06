@@ -1,0 +1,16 @@
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Menu Test.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Menu Test.pdb
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Menu Library.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Menu Library.pdb
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\obj\Debug\KomodoCafeTests.csproj.AssemblyReference.cache
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\obj\Debug\KomodoCafeTests.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\obj\Debug\KomodoCafeTests.csproj.CopyComplete
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\obj\Debug\Menu Test.dll
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\Menu Test\obj\Debug\Menu Test.pdb

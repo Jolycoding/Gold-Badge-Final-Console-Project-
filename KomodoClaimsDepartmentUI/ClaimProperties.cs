@@ -25,7 +25,7 @@ namespace KomodoClaimsDepartmentUI
 
         public ClaimProperties() { }
 
-        public ClaimProperties(double claimID, ClaimType claim, string description, double claimAmount, decimal dateOfIncident, string dateOfClaim, bool isValid)
+        public ClaimProperties(double claimID, ClaimType claim, string description, double claimAmount, decimal dateOfIncident, decimal dateOfClaim, bool isValid)
         {
             ClaimID = claimID;
             TypeOfClaim = claim;
@@ -33,9 +33,9 @@ namespace KomodoClaimsDepartmentUI
             ClaimAmount = claimAmount;
             DateOfIncident = dateOfIncident;
             DateOfClaim = dateOfClaim;
-            IsValid = isValid; 
+            IsValid = isValid;
 
-
+            
 
 
         }

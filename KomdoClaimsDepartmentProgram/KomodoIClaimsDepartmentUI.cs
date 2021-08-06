@@ -65,7 +65,7 @@ namespace KomdoClaimsDepartmentProgram
 
             //Claim #
             Console.WriteLine("Enter the Claim Number:");
-            newClaims.ClaimID = Console.ReadLine();
+            newClaims.ClaimID = Console.Read();
 
 
             //Claim Type
@@ -78,11 +78,11 @@ namespace KomdoClaimsDepartmentProgram
 
             //Claim Amount 
             Console.WriteLine("Enter the the Claim Amount:");
-            newClaims.ClaimAmount = Console.ReadLine();
+            newClaims.ClaimAmount = Console.Read();
 
             //Price
             Console.WriteLine("Enter the the Date of Accident:");
-            newClaims.DateOfIncident = Console.ReadLine();
+            newClaims.DateOfIncident = Console.Read();
 
             //Date of Claim
             Console.WriteLine("Enter the the Date of Claim:");
@@ -93,6 +93,8 @@ namespace KomdoClaimsDepartmentProgram
             newClaims.IsValid = Console.ReadLine();
 
             _itemsRepo.AddItemsToClaims(newClaims);
+
+            Console.WriteLine("Do you want to deal with this claim now(y/n)?");
 
         }
 

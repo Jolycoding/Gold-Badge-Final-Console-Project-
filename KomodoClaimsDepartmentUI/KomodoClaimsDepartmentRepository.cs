@@ -16,6 +16,10 @@ namespace KomodoClaimsDepartmentUI
             _listofClaims.Add(claims);
         }
 
+        
+          
+            
+
         //Read
         public List<ClaimProperties> GetListofClaims()
         {

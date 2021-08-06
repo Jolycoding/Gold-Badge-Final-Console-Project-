@@ -1,0 +1,2 @@
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\KomodoClaimsDepartmentTests\obj\Debug\KomodoClaimsDepartmentTests.csproj.AssemblyReference.cache
+C:\Users\home\Documents\ElevenFiftyProjects\Assignments\Gold Badge Final Project\Gold Badge Final Project\KomodoClaimsDepartmentTests\obj\Debug\KomodoClaimsDepartmentTests.csproj.CoreCompileInputs.cache
