@@ -1,9 +1,16 @@
 # Gold-Badge-Final-Console-Project-
 
 This project has been broken down into 3 separate projects all within the same solution:
+
+
 CHALLENGE 1: CAFE
+
+
 CHALLENGE 2: CLAIMS
+
+
 CHALLENGE 3: BADGES
+
 
 All 3 challenges are working with the client Komodo. 
 
